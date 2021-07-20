@@ -1,26 +1,18 @@
 # Birat Koirala
 
-- [Experience](#experience)
-- [Computer Skills](#computer-skills)
-- [Media Skills](#media-skills)
-- [Personal Skills](#personal-skills)
-- [Projects](#projects)
+<details><summary>Table of Contents</summary>
+
+[Experience](#experience)
+[Computer Skills](#computer-skills)
+[Media Skills](#media-skills)
+[Personal Skills](#personal-skills)
+[Projects](#projects)
   * [Student Dashboard](#student-dashboard)
-    + [Objective](#objective)
-    + [Features:](#features-)
-    + [Languages and/or Libraries used](#languages-and-or-libraries-used)
   * [Typing Speed Test](#typing-speed-test)
-    + [Objective](#objective-1)
-    + [Features:](#features--1)
-    + [Languages and/or Libraries used](#languages-and-or-libraries-used-1)
   * [Backtracking Sudoku Solver](#backtracking-sudoku-solver)
-    + [Objective](#objective-2)
-    + [Features:](#features--2)
-    + [Languages and/or Libraries used](#languages-and-or-libraries-used-2)
   * [Connect 4 against minimax algorithm](#connect-4-against-minimax-algorithm)
-    + [Objective](#objective-3)
-    + [Features:](#features--3)
-    + [Languages and/or Libraries used](#languages-and-or-libraries-used-3)
+</details>
+
 
 # Experience
 - 1 year experience of Tutoring GCSE and 11+ students one-on-one *(2019 - 2020)*
