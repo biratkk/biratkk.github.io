@@ -4,7 +4,7 @@
 
 <details>
 <summary>Student Dashboard Application</summary>
-[Link to project repository](https://github.com/biratkk/StudyDashBoard)
+(https://github.com/biratkk/StudyDashBoard)
 
 ### Objective
 A visibly simple application to help a student with their basic utility tasks.
@@ -25,7 +25,7 @@ A visibly simple application to help a student with their basic utility tasks.
 
 <details>
 <summary>Typing Speed Test</summary>
-[Link to project repository](https://github.com/biratkk/Typing-Speed-Test)
+(https://github.com/biratkk/Typing-Speed-Test)
 
 ### Objective(s):
 A web app to measure typing speed.
@@ -43,7 +43,7 @@ A web app to measure typing speed.
 
 <details>
 <summary>Java Sudoku Solver</summary>
-[Link to project repository](https://github.com/biratkk/JavaSudokuSolver)
+(https://github.com/biratkk/JavaSudokuSolver)
 
 ### Objective(s):
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
