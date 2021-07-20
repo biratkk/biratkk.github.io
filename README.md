@@ -5,7 +5,7 @@
 <details>
 <summary><a href = "https://github.com/biratkk/StudyDashBoard">Student Dashboard<a></summary>
 
-<h3>Objective</h3>
+# Objective
 A visibly simple application to help a student with their basic utility tasks.
 
 <h3>Features:</h3>
@@ -68,11 +68,7 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 </details>
 
 <details>
-
-
 <summary><a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a></summary>
-
-
 <h3>Objective</h3>
 A connect4 game which allows a PvE(player vs environment) mode and PvP(player vs player) mode.
 
@@ -83,6 +79,7 @@ A connect4 game which allows a PvE(player vs environment) mode and PvP(player vs
 <li>Difficulty can be selected in PvE</li>
 <li>Concurrency (Server can host more than one game at a time)</li>
 </ul>
+
 
 <h3>Languages and/or Libraries used</h3>
 Frontend:
