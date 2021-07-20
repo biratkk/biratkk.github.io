@@ -31,7 +31,6 @@
 
 # Projects
 
-
 ## <a href = "https://github.com/biratkk/StudyDashBoard">Student Dashboard<a>
 
 ### Objective
@@ -49,9 +48,7 @@ A visibly simple application to help a student with their basic utility tasks.
 - Java (backend)
 - JavaFX (frontend)
 
-
-
-
+---
 
 ## <a href = "https://github.com/biratkk/Typing-Speed-Test">Typing Speed Test<a>
 
@@ -68,9 +65,7 @@ A web app to measure typing speed.
 - Vanilla JavaScript
 - CSS
 
- 
-
-
+---
 
 ## <a href = "https://github.com/biratkk/JavaSudokuSolver">Java Sudoku Solver<a>
 
@@ -87,8 +82,7 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 - Java (backend)
 - JavaSwing (frontend)
 
-
-
+---
 
 ## <a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a>
 
