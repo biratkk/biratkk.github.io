@@ -1,6 +1,6 @@
 # Birat Koirala
 
-<details><summary>Table of Contents</summary>
+<!-- <details><summary>Table of Contents</summary>
 
 + [Experience](#experience)
 + [Computer Skills](#computer-skills)
@@ -11,7 +11,7 @@
   * [Typing Speed Test](#typing-speed-test)
   * [Backtracking Sudoku Solver](#backtracking-sudoku-solver)
   * [Connect 4 against minimax algorithm](#connect-4-against-minimax-algorithm)
-</details>
+</details> -->
 
 
 # Experience
