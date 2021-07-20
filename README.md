@@ -19,81 +19,71 @@ A visibly simple application to help a student with their basic utility tasks.
 ### Languages and/or Libraries used
 - Java (backend)
 - JavaFX (frontend)
-<h3>Languages and/or Libraries used</h3>
-<ul>
-<li>Java (backend)</li>
-<li>JavaFX (frontend)</li>
-</ul>
+
 </details>
 
 
 <details>
 <summary><a href = "https://github.com/biratkk/Typing-Speed-Test">Typing Speed Test<a></summary>
 
-<h3>Objective</h3>
+### Objective
 A web app to measure typing speed.
 
-<h3>Features:</h3>
-<ul>
-<li>Measures typing speed</li>
-<li>Integrated dark and light mode</li>
-</ul>
+### Features:
+- Measures typing speed
+- Integrated dark and light mode
 
-<h3>Languages and/or Libraries used</h3>
-<ul>
-<li>HTML</li>
-<li>Vanilla JavaScript</li>
-<li>CSS</li>
-</ul>
+### Languages and/or Libraries used
+
+- HTML
+- Vanilla JavaScript
+- CSS
+
 </details> 
 
 
 <details>
 <summary><a href = "https://github.com/biratkk/JavaSudokuSolver">Java Sudoku Solver<a></summary>
 
-<h3>Objective</h3>
+### Objective
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
 
-<h3>Features:</h3>
-<ul>
-<li>Obtains and displays a random sudoku puzzle</li>
-<li>Solves the random sudoku puzzle</li>
-<li>Each number gets a colour when being completed; Red(for not completed yet), Green(for completed), White(for not attempted yet)</li>
-</ul>
+### Features:
+- Obtains and displays a random sudoku puzzle
+- Solves the random sudoku puzzle
+- Each number gets a colour when being completed; Red(for not completed yet), Green(for completed), White(for not attempted yet)
 
-<h3>Languages and/or Libraries used</h3>
-<ul>
-<li>Java (backend)</li>
-<li>JavaSwing (frontend)</li>
-</ul>
+
+### Languages and/or Libraries used
+- Java (backend)
+- JavaSwing (frontend)
+
 </details>
 
 <details>
 <summary><a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a></summary>
-<h3>Objective</h3>
+
+### Objective
 A connect4 game which allows a PvE(player vs environment) mode and PvP(player vs player) mode.
 
-<h3>Features:</h3>
-<ul>
-<li>PvP Game Mode</li>
-<li>PvE Game Mode with implementation of minimax algorithm</li>
-<li>Difficulty can be selected in PvE</li>
-<li>Concurrency (Server can host more than one game at a time)</li>
-</ul>
+### Features:
+- PvP Game Mode
+- PvE Game Mode with implementation of minimax algorithm
+- Difficulty can be selected in PvE
+- Concurrency (Server can host more than one game at a time)
 
 
-<h3>Languages and/or Libraries used</h3>
+
+### Languages and/or Libraries used
 Frontend:
-<ul>
-<li>ReactJS</li>
-<li>HTML</li>
-<li>CSS</li>
-</ul>
+- ReactJS
+- HTML
+- CSS
+
 Backend:
-<ul>
-<li>Node</li>
-<li>ExpressJS</li>
-</ul>
+- Node
+- ExpressJS
+
 </details>  
 
 ## Experience
