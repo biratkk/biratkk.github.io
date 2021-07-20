@@ -27,14 +27,14 @@ A visibly simple application to help a student with their basic utility tasks.
 <summary>Typing Speed Test</summary>
 (https://github.com/biratkk/Typing-Speed-Test)
 
-### Objective
+<h1>Objective<h1>
 A web app to measure typing speed.
 
-### Features:
+<h1>Features:<h1>
 - Measures typing speed
 - Integrated dark and light mode
 
-### Languages and/or Libraries used
+<h1>Languages and/or Libraries used<h1>
 - HTML
 - Vanilla JavaScript
 - CSS
