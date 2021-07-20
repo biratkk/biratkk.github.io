@@ -62,10 +62,7 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 - 1 year experience of Tutoring GCSE and 11+ students one-on-one *(2019 - 2020)*
 - Mullaley architectural design in-office work experience with excellent feedback from work manager, supervisor and colleagues *(2018)*
 
-
-## Skills
-
-### Computer
+## Computer Skills
 - Java
 - JavaFX
 - Java Swing
@@ -78,13 +75,13 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 - Node
 - Git
 
-### Media Skills
+## Media Skills
 - Sony Vegas Pro
 - Adobe Lightroom
 - Paint.net
 - Photography & Cinematography
 
-### Personal Skills
+## Personal Skills
 - Highly Organised
 - Time Management
 - Team Player and Independent
