@@ -1,5 +1,27 @@
 # Birat Koirala
 
+- [Experience](#experience)
+- [Computer Skills](#computer-skills)
+- [Media Skills](#media-skills)
+- [Personal Skills](#personal-skills)
+- [Projects](#projects)
+  * [(Student Dashboard)[https://github.com/biratkk/StudyDashBoard]](#-student-dashboard--https---githubcom-biratkk-studydashboard-)
+    + [Objective](#objective)
+    + [Features:](#features-)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used)
+  * [(Typing Speed Test)[https://github.com/biratkk/Typing-Speed-Test]](#-typing-speed-test--https---githubcom-biratkk-typing-speed-test-)
+    + [Objective](#objective-1)
+    + [Features:](#features--1)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used-1)
+  * [(Backtracking Sudoku Solver)[https://github.com/biratkk/JavaSudokuSolver]](#-backtracking-sudoku-solver--https---githubcom-biratkk-javasudokusolver-)
+    + [Objective](#objective-2)
+    + [Features:](#features--2)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used-2)
+  * [(Connect 4 against minimax algorithm)[https://github.com/biratkk/connect4]](#-connect-4-against-minimax-algorithm--https---githubcom-biratkk-connect4-)
+    + [Objective](#objective-3)
+    + [Features:](#features--3)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used-3)
+
 # Experience
 - 1 year experience of Tutoring GCSE and 11+ students one-on-one *(2019 - 2020)*
 - Mullaley architectural design in-office work experience with excellent feedback from work manager, supervisor and colleagues *(2018)*
@@ -31,7 +53,7 @@
 
 # Projects
 
-## <a href = "https://github.com/biratkk/StudyDashBoard">Student Dashboard<a>
+## (Student Dashboard)[https://github.com/biratkk/StudyDashBoard] 
 
 ### Objective
 A visibly simple application to help a student with their basic utility tasks.
@@ -50,7 +72,7 @@ A visibly simple application to help a student with their basic utility tasks.
 
 ---
 
-## <a href = "https://github.com/biratkk/Typing-Speed-Test">Typing Speed Test<a>
+## (Typing Speed Test)[https://github.com/biratkk/Typing-Speed-Test] 
 
 ### Objective
 A web app to measure typing speed.
@@ -67,7 +89,7 @@ A web app to measure typing speed.
 
 ---
 
-## <a href = "https://github.com/biratkk/JavaSudokuSolver">Java Sudoku Solver<a>
+## (Backtracking Sudoku Solver)[https://github.com/biratkk/JavaSudokuSolver] 
 
 ### Objective
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
@@ -82,9 +104,7 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 - Java (backend)
 - JavaSwing (frontend)
 
----
-
-## <a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a>
+## (Connect 4 against minimax algorithm)[https://github.com/biratkk/connect4] 
 
 ### Objective
 A connect4 game which allows a PvE(player vs environment) mode and PvP(player vs player) mode.
