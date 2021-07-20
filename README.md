@@ -2,11 +2,11 @@
 
 <details><summary>Table of Contents</summary>
 
-[Experience](#experience)
-[Computer Skills](#computer-skills)
-[Media Skills](#media-skills)
-[Personal Skills](#personal-skills)
-[Projects](#projects)
++ [Experience](#experience)
++ [Computer Skills](#computer-skills)
++ [Media Skills](#media-skills)
++ [Personal Skills](#personal-skills)
++ [Projects](#projects)
   * [Student Dashboard](#student-dashboard)
   * [Typing Speed Test](#typing-speed-test)
   * [Backtracking Sudoku Solver](#backtracking-sudoku-solver)
