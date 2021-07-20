@@ -27,7 +27,7 @@ A visibly simple application to help a student with their basic utility tasks.
 <summary>Typing Speed Test</summary>
 (https://github.com/biratkk/Typing-Speed-Test)
 
-### Objective(s):
+### Objective
 A web app to measure typing speed.
 
 ### Features:
@@ -45,7 +45,7 @@ A web app to measure typing speed.
 <summary>Java Sudoku Solver</summary>
 (https://github.com/biratkk/JavaSudokuSolver)
 
-### Objective(s):
+### Objective
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
 
 ### Features:
