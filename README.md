@@ -1,5 +1,26 @@
 # Birat Koirala
 
+- [Experience](#experience)
+- [Computer Skills](#computer-skills)
+- [Media Skills](#media-skills)
+- [Personal Skills](#personal-skills)
+- [Projects](#projects)
+  * [[Student Dashboard](https://github.com/biratkk/StudyDashBoard)](#-student-dashboard--https---githubcom-biratkk-studydashboard-)
+    + [Objective](#objective)
+    + [Features:](#features-)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used)
+  * [[Typing Speed Test](https://github.com/biratkk/Typing-Speed-Test)](#-typing-speed-test--https---githubcom-biratkk-typing-speed-test-)
+    + [Objective](#objective-1)
+    + [Features:](#features--1)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used-1)
+  * [[Backtracking Sudoku Solver](https://github.com/biratkk/JavaSudokuSolver)](#-backtracking-sudoku-solver--https---githubcom-biratkk-javasudokusolver-)
+    + [Objective](#objective-2)
+    + [Features:](#features--2)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used-2)
+  * [[Connect 4 against minimax algorithm](https://github.com/biratkk/connect4)](#-connect-4-against-minimax-algorithm--https---githubcom-biratkk-connect4-)
+    + [Objective](#objective-3)
+    + [Features:](#features--3)
+    + [Languages and/or Libraries used](#languages-and-or-libraries-used-3)
 
 # Experience
 - 1 year experience of Tutoring GCSE and 11+ students one-on-one *(2019 - 2020)*
