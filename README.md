@@ -1,10 +1,10 @@
 # Birat Koirala
 
-## Experience
+# Experience
 - 1 year experience of Tutoring GCSE and 11+ students one-on-one *(2019 - 2020)*
 - Mullaley architectural design in-office work experience with excellent feedback from work manager, supervisor and colleagues *(2018)*
 
-## Computer Skills
+# Computer Skills
 - Java
 - JavaFX
 - Java Swing
@@ -17,22 +17,22 @@
 - Node
 - Git
 
-## Media Skills
+# Media Skills
 - Sony Vegas Pro
 - Adobe Lightroom
 - Paint.net
 - Photography & Cinematography
 
-## Personal Skills
+# Personal Skills
 - Highly Organised
 - Time Management
 - Team Player and Independent
 - Ability to quickly adapt to new environment
 
-## Projects
+# Projects
 
 
-<a href = "https://github.com/biratkk/StudyDashBoard">Student Dashboard<a>
+## <a href = "https://github.com/biratkk/StudyDashBoard">Student Dashboard<a>
 
 ### Objective
 A visibly simple application to help a student with their basic utility tasks.
@@ -53,7 +53,7 @@ A visibly simple application to help a student with their basic utility tasks.
 
 
 
-<a href = "https://github.com/biratkk/Typing-Speed-Test">Typing Speed Test<a>
+## <a href = "https://github.com/biratkk/Typing-Speed-Test">Typing Speed Test<a>
 
 ### Objective
 A web app to measure typing speed.
@@ -72,7 +72,7 @@ A web app to measure typing speed.
 
 
 
-<a href = "https://github.com/biratkk/JavaSudokuSolver">Java Sudoku Solver<a>
+## <a href = "https://github.com/biratkk/JavaSudokuSolver">Java Sudoku Solver<a>
 
 ### Objective
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
@@ -90,7 +90,7 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 
 
 
-<a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a>
+## <a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a>
 
 ### Objective
 A connect4 game which allows a PvE(player vs environment) mode and PvP(player vs player) mode.
