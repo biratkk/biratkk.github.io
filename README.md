@@ -50,6 +50,27 @@ A web app to measure typing speed.
 
 
 <details>
+<summary><a href = "https://github.com/biratkk/JavaSudokuSolver">Java Sudoku Solver<a></summary>
+(https://github.com/biratkk/JavaSudokuSolver)
+
+<h3>Objective</h3>
+A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
+
+<h3>Features:</h3>
+<ul>
+<li>Obtains and displays a random sudoku puzzle</li>
+<li>Solves the random sudoku puzzle</li>
+<li>Each number gets a colour when being completed; Red(for not completed yet), Green(for completed), White(for not attempted yet)</li>
+</ul>
+
+<h3>Languages and/or Libraries used</h3>
+<ul>
+<li>Java (backend)</li>
+<li>JavaSwing (frontend)</li>
+</ul>
+</details>
+
+<details>
 <summary>Java Sudoku Solver</summary>
 (https://github.com/biratkk/JavaSudokuSolver)
 
@@ -68,7 +89,7 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 <li>Java (backend)</li>
 <li>JavaSwing (frontend)</li>
 </ul>
-</details> 
+</details>  
 
 ## Experience
 - 1 year experience of Tutoring GCSE and 11+ students one-on-one *(2019 - 2020)*
