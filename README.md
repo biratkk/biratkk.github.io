@@ -5,19 +5,20 @@
 <details>
 <summary><a href = "https://github.com/biratkk/StudyDashBoard">Student Dashboard<a></summary>
 
-# Objective
+### Objective
 A visibly simple application to help a student with their basic utility tasks.
 
-<h3>Features:</h3>
-<ul>
-<li>Calculator</li>
-<li>Dictionary</li>
-<li>Notes</li>
-<li>Timer</li>
-<li>Whiteboard</li>
-<li>Slider GUI to switch between actions</li>
-</ul>
+### Features:
+- Calculator
+- Dictionary
+- Notes
+- Timer
+- Whiteboard
+- Slider GUI to switch between actions
 
+### Languages and/or Libraries used
+- Java (backend)
+- JavaFX (frontend)
 <h3>Languages and/or Libraries used</h3>
 <ul>
 <li>Java (backend)</li>
