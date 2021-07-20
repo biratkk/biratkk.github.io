@@ -68,6 +68,8 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 </details>
 
 <details>
+
+
 <summary><a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a></summary>
 
 
