@@ -3,8 +3,7 @@
 ## Projects
 
 <details>
-<summary>Student Dashboard Application</summary>
-(https://github.com/biratkk/StudyDashBoard)
+<summary><a href = "https://github.com/biratkk/StudyDashBoard">Student Dashboard<a></summary>
 
 <h3>Objective</h3>
 A visibly simple application to help a student with their basic utility tasks.
@@ -28,8 +27,7 @@ A visibly simple application to help a student with their basic utility tasks.
 
 
 <details>
-<summary>Typing Speed Test</summary>
-(https://github.com/biratkk/Typing-Speed-Test)
+<summary><a href = "https://github.com/biratkk/Typing-Speed-Test">Typing Speed Test<a></summary>
 
 <h3>Objective</h3>
 A web app to measure typing speed.
@@ -51,7 +49,6 @@ A web app to measure typing speed.
 
 <details>
 <summary><a href = "https://github.com/biratkk/JavaSudokuSolver">Java Sudoku Solver<a></summary>
-(https://github.com/biratkk/JavaSudokuSolver)
 
 <h3>Objective</h3>
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
@@ -71,23 +68,32 @@ A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku 
 </details>
 
 <details>
-<summary>Java Sudoku Solver</summary>
-(https://github.com/biratkk/JavaSudokuSolver)
+<summary></summary>
+<summary><a href = "https://github.com/biratkk/connect4">Connect 4 against minimax algorithm<a></summary>
+
 
 <h3>Objective</h3>
-A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
+A connect4 game which allows a PvE(player vs environment) mode and PvP(player vs player) mode.
 
 <h3>Features:</h3>
 <ul>
-<li>Obtains and displays a random sudoku puzzle</li>
-<li>Solves the random sudoku puzzle</li>
-<li>Each number gets a colour when being completed; Red(for not completed yet), Green(for completed), White(for not attempted yet)</li>
+<li>PvP Game Mode</li>
+<li>PvE Game Mode with implementation of minimax algorithm</li>
+<li>Difficulty can be selected in PvE</li>
+<li>Concurrency (Server can host more than one game at a time)</li>
 </ul>
 
 <h3>Languages and/or Libraries used</h3>
+Frontend:
 <ul>
-<li>Java (backend)</li>
-<li>JavaSwing (frontend)</li>
+<li>ReactJS</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+Backend:
+<ul>
+<li>Node</li>
+<li>ExpressJS</li>
 </ul>
 </details>  
 
