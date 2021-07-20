@@ -6,10 +6,10 @@
 <summary>Student Dashboard Application</summary>
 (https://github.com/biratkk/StudyDashBoard)
 
-<h1>Objective</h1>
+<h3>Objective</h3>
 A visibly simple application to help a student with their basic utility tasks.
 
-<h1>Features:</h1>
+<h3>Features:</h3>
 - Calculator
 - Dictionary
 - Notes
@@ -17,7 +17,7 @@ A visibly simple application to help a student with their basic utility tasks.
 - Whiteboard
 - Slider GUI to switch between actions
 
-<h1>Languages and/or Libraries used</h1>
+<h3>Languages and/or Libraries used</h3>
 - Java (backend)
 - JavaFX (frontend)
 </details>
@@ -27,14 +27,14 @@ A visibly simple application to help a student with their basic utility tasks.
 <summary>Typing Speed Test</summary>
 (https://github.com/biratkk/Typing-Speed-Test)
 
-<h1>Objective</h1>
+<h3>Objective</h3>
 A web app to measure typing speed.
 
-<h1>Features:</h1>
+<h3>Features:</h3>
 - Measures typing speed
 - Integrated dark and light mode
 
-<h1>Languages and/or Libraries used</h1>
+<h3>Languages and/or Libraries used</h3>
 - HTML
 - Vanilla JavaScript
 - CSS
@@ -45,15 +45,15 @@ A web app to measure typing speed.
 <summary>Java Sudoku Solver</summary>
 (https://github.com/biratkk/JavaSudokuSolver)
 
-<h1>Objective</h1>
+<h3>Objective</h3>
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
 
-<h1>Features:</h1>
+<h3>Features:</h3>
 - Obtains and displays a random sudoku puzzle
 - Solves the random sudoku puzzle
 - Each number gets a colour when being completed; Red(for not completed yet), Green(for completed), White(for not attempted yet)
 
-<h1>Languages and/or Libraries used</h1>
+<h3>Languages and/or Libraries used</h3>
 - Java
 - Java Swing
 </details> 
