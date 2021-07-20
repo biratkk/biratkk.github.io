@@ -45,15 +45,15 @@ A web app to measure typing speed.
 <summary>Java Sudoku Solver</summary>
 (https://github.com/biratkk/JavaSudokuSolver)
 
-### Objective
+<h1>Objective<h1>
 A sudoku solver which utilises a backtracking algorithm to visibly solve sudoku puzzles.
 
-### Features:
+<h1>Features:<h1>
 - Obtains and displays a random sudoku puzzle
 - Solves the random sudoku puzzle
 - Each number gets a colour when being completed; Red(for not completed yet), Green(for completed), White(for not attempted yet)
 
-### Languages and/or Libraries used
+<h1>Languages and/or Libraries used<h1>
 - Java
 - Java Swing
 </details> 
