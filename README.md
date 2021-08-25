@@ -12,7 +12,7 @@
   * [Backtracking Sudoku Solver](#backtracking-sudoku-solver)
   * [Connect 4 against minimax algorithm](#connect-4-against-minimax-algorithm)
 </details> -->
-
+[Click here for a more interactive version](http://biratkk.github.io/portfolioSite)
 
 # Experience
 - 1 year experience of Tutoring GCSE and 11+ students one-on-one *(2019 - 2020)*
